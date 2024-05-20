@@ -1,0 +1,75 @@
+/* CSS document */
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+ul{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+}
+#main{
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    /* flex-direction: row-reverse; */
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: calibri;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 50px;
+    z-index: 1;
+}
+.menu{
+    display: flex;
+}
+.menu li a{
+    padding: 10px 15px;
+    color: black;
+    font-size: 15px;
+}
+.lang{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family: poppins;
+}
+.menu li a:hover{
+    /* .active{ */
+    background-color: rgb(255, 140, 8);
+    color: rgb(52, 51, 55) !important;
+    font-weight: 700;
+    transition: all ease 0.4s;
+
+}
+.name{
+    font-family: calibria;
+    width: 40%;
+}
+.heroimg{
+    width: 40%;
+    height: auto;
+}
+
+.name button:hover{
+    font-size: 10px;
+}
+.btn{
+    border-radius: 20px;
+    background-color: aqua;
+    margin-top: 30px;
+   
+    
+}
+

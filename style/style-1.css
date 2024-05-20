@@ -1,0 +1,152 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.card {
+    height: 250px;
+    width: 400px;
+    margin-top: 20px;
+    background-color: #e7e7e7;
+    border-radius: 20px;
+ 
+}
+
+.shoes {
+    margin-left: 250px;
+   
+}
+
+.text {
+    margin-left: 30px;
+    letter-spacing: 5px;
+    /* margin-top: 50px; */
+
+}
+
+.text2 {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.h2 {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.btn {
+    margin-left: 120px;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(29, 2, 2);
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.card button:hover {
+    font-size: 10px;
+}
+
+
+
+
+.card2 {
+    height: 250px;
+    width: 400px;
+    margin-top: 20px;
+    background-color: #e7e7e7;
+    border-radius: 20px;
+
+}
+
+.shoes2 {
+    margin-left: 250px;
+    /* display: flex;
+    justify-content: center; */
+
+}
+
+.text3 {
+    margin-left: 25px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+
+.text6 {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.h3 {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.btn2 {
+    margin-left: 120px;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(29, 2, 2);
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.card2 button:hover {
+    font-size: 10px;
+}
+
+
+
+
+
+
+.card3 {
+    height: 350px;
+    width: 400px;
+    margin-top: 20px;
+    background-color: #e7e7e7;
+    border-radius: 20px;
+
+}
+
+.shoes3 {
+    /* margin-left: 200px; */
+    display: flex;
+    justify-content:center;
+
+}
+
+.text4 {
+    margin-left: 30px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.text5 {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.h4 {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.btn3 {
+    margin-left: 100px;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(29, 2, 2);
+    color: white;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.card3 button:hover {
+    font-size: 10px;
+
+}
